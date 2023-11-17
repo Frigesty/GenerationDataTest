@@ -21,4 +21,6 @@ public class TestData {
     public static String[] stateHaryana = {"Karnal", "Panipat"};
 
     public static String[] stateRajasthan = {"Jaipur", "Jaiselmer"};
+
+    public static String[] morePictures = {"duck.jpg", "marina.jpeg", "mem.jpg"};
 }
